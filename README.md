@@ -1,4 +1,4 @@
-# TinyTouchZoffset
+# TinyTouch Z Offset probe
 
 ## What is this thing?
 It's a 'membrane potentiometer' that's typically used to register touch input, connected to an inexpensive microcontroller to more repeatably measure how far away a 3D printer nozzle is from its build surface.
