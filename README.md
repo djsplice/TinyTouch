@@ -1,13 +1,13 @@
 # TinyTouchZoffset
 
 ## What is this thing?
-It's a 'soft potentiometer' that's typically used to register touch input with variable resistance depending on where along the strip you press it, connected to a cheap microcontroller to more repeatably measure when and how far away a 3D printers nozzle is from it's build surface.
+It's a 'soft potentiometer' that's typically used to register touch input with variable resistance depending on where along the strip you press it, connected to an inexpensive microcontroller to more repeatably measure when and how far away a 3D printer nozzle is from its build surface.
 
 ## Why this thing?
 1. I wanted an easier and more repeatable way to measure my Probe Z Offset
 2. I don't have enough room on my printer to use a sexbolt to enable an auto-z offset calibration 
 3. I'm using a Beacon probe for a virtual z end-stop and bed mesh calibration
-4. I'm using a modified EVA tool head and not very interested in moving to other solutions (like TAP or Unklicky)
+4. I'm using a modified EVA tool head and not very interested in moving to other solutions
 
 ## How does this thing help?
 I had originally used the tried and true 'paper method' for determining Z Offset, and have struggled with it for many years... I never invested enough time to make it a repeatable process, always having to do additional steps (baby steps, many test prints, etc...) in order to get my first layer dialed in.
