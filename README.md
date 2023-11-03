@@ -3,7 +3,7 @@
 ## What is this thing?
 It's a 'membrane potentiometer' that's typically used to register touch input, connected to an inexpensive microcontroller to more repeatably measure how far away a 3D printer nozzle is from its build surface.
 
-![TinyTouch](img/PXL_20231021_184058405.jpg =600x400)
+![TinyTouch](img/PXL_20231021_184058405.jpg)
 
 ## Why this thing?
 1. I wanted an easier and more repeatable way to measure my Probe Z Offset
@@ -16,7 +16,7 @@ I had originally used the 'paper method' for determining Z Offset, and have stru
 
 I recently started using an aluminum card of fixed width (a type of feeler gauge if you will) in place of a piece of paper, and it helped me improve my repeatability when measuring Z offset, however, I still needed to play around with baby stepping and test prints... Better, but not ideal. 
 
-![Alt text](img/PXL_20231022_215923067_exported_52481.jpg =600x400)
+![Alt text](img/PXL_20231022_215923067_exported_52481.jpg)
 
 ## Repeatability?
 I believe the variability in measurement using the paper or feeler gauge method is due to the fact that there's some subjectiveness (human feel) involved in determining just how much the nozzle is allowed to pinch the paper or feeler gauge. My guess is that this subjective measurement can introduce enough variance in measurement that it can affect first-layer consistency. 
@@ -72,5 +72,5 @@ This value is the thickness in mm of your soft potentiometer... It probably does
 Enjoy your perfect first layer! 
 
 ## Photos
-![Assembled](img/PXL_20231101_230219057.jpg =600x400)
-![Back Side](img/PXL_20231101_230136371.jpg =600x400)
+![Assembled](img/PXL_20231101_230219057.jpg)
+![Back Side](img/PXL_20231101_230136371.jpg)
