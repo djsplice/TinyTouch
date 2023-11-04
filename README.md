@@ -32,6 +32,8 @@ This sensor replaces the paper or fixed-size feeler gauge when using the PROBE_C
 4. 3 Jumper wires and a 3 Pin 2.54mm pitch Dupont connector
 5. A 3D printed case to hold everything together
 
+[Spectra Symbol Soft Potentiometer Data Sheet](https://spectra-symbol-landing.s3.us-west-1.amazonaws.com/data-sheets/SoftPot-Series-Datasheet-v2019a.pdf)
+
 ## Wiring
 This is a very basic circuit! We use the 5v, Ground, and P0 pins from the ATTiny85 dev board and connect them to a 3 pin JST connector (male in this instance).
 
